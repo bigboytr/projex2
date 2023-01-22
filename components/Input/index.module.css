@@ -1,0 +1,7 @@
+.base {
+    @apply
+    space-x-2
+    rounded
+    py-2 px-8
+    border border-black
+}
